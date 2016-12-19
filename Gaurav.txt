@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 This is just for testing purpose.
 
 Another line added in the Gaurav text file.
+=======
+This is just for testing purpose
+
+Hi this is Vikash
+>>>>>>> 8bf410b96723e109243595055dce2a0e3800e1bb
