@@ -10,6 +10,7 @@ public class Myclass {
 		s.setAge(20);
 		System.out.println(s.getName() +  "  is  " +s.getAge() + " year old");
 
+		
 	}
 
 }
