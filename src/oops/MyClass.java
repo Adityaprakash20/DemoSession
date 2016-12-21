@@ -21,6 +21,7 @@ public class MyClass {
 		Cube mycube = new Cube(10,10,10);
 		
 		System.out.println("Volume of the Cube of "+ mycube.VolumeOfCube());
+		System.out.println("This is a new change from Sayyed");
 		
 		
 		
