@@ -1,0 +1,18 @@
+package oopd;
+
+public class MyClass {
+	
+	public static void main (String[] args)
+	{
+		Student Alok = new Student();
+		Alok.setAge(28);
+		Alok.setId(1);
+		Alok.setName("Alok");
+		
+		System.out.println(Alok.getAge());
+		System.out.println(Alok.getId());
+		System.out.println(Alok.getName());
+		
+	}
+
+}
