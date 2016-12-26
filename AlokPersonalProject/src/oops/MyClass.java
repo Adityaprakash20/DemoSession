@@ -1,4 +1,4 @@
-package oopd;
+package oops;
 
 public class MyClass {
 	
@@ -20,9 +20,11 @@ public class MyClass {
 		Cube alok2 = new Cube(30,20,20);
 		System.out.println("Volume of the Cube" + alok2.getVolumeOfCube());
 		
-		
-		
+		Child Child1=new Child("Alok1");
+		Child1.print();
+			
+		}
 		
 	}
 
-}
+

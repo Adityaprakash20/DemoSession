@@ -1,4 +1,4 @@
-package oopd;
+package oops;
 
 public class Student {
 
