@@ -3,6 +3,7 @@ package testproject1;
 import java.util.HashMap;
 import java.util.Scanner;
 
+
 public class Employee {
 	
 	public  String ename;
