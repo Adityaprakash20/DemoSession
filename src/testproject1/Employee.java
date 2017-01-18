@@ -6,14 +6,33 @@ import java.util.Scanner;
 
 public class Employee {
 	
-	public  String ename;
-	public  int empid;
-	public  String equalification;
+	private  String ename;
+	private  int empid;
+	private  String equalification;
 	
-	public Employee(String name, int id, String qual){
+	
+	public void setEname(String name){
 		this.ename=name;
+	}
+	
+	public void setEmpid(int id){
 		this.empid=id;
-		this.equalification=qual;
+	}
+	
+	public void setEqualification(String qualification){
+		this.equalification=qualification;
+	}
+	
+	public String getEname(){
+		return ename;
+	}
+	
+	public int getEmpid(){
+		return empid;
+	}
+	
+	public String getEqualification(){
+		return equalification;
 	}
 	
 	
